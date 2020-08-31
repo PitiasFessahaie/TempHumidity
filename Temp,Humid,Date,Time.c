@@ -1,7 +1,8 @@
 // PIC16F877A & DS1307 Real Time Clock & DHT11 Sensor
-//Used microcontroller: PIC16F877A @ 12MHz
+// Used microcontroller: PIC16F877A @ 12MHz
 // LCD module connections
-//Pitias      Selamptsegu@gmail.com
+// Pitias Fessahaie      
+// selamptsegu@gmail.com
 
 sbit LCD_RS at RD0_bit;
 sbit LCD_EN at RD1_bit;
